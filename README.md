@@ -1,2 +1,0 @@
-# covid-benford
-Covid Benford
